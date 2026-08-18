@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DEVITAARU",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/nkg6ncshXeDC4Bre05r3PorkJkGodQT0rmZvytYRYv5pinvI4L/",
+  "gitHubUrl": "https://github.com/ramakant-enviorment-LZ/B18G20GIT",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
