@@ -18,8 +18,8 @@ jobs:
     name: Terraform
     runs-on: self-hosted
 
-    defaults:
-      run:
+    # defaults:
+    #   run:
         # working-directory: ./environment
 
     steps:
