@@ -20,7 +20,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./environment
+        # working-directory: ./environment
 
     steps:
 
